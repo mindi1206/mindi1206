@@ -1,9 +1,15 @@
-### Hi there 👋
+### 여러분 안녕! 👋
+<hr/><br>
 
+### 👩 Profile
+<hr/><br>
+👶 1997년 12월 06일 <br>
+🏫 한국산업기술대학교 (2016.03 ~ 2021.02)
 <!--
 **mindi1206/mindi1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
