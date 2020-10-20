@@ -4,8 +4,8 @@
    IoT 개발자가 되고싶어요! 👨‍💻 <br>
       하지만 웹개발도 하고싶어.. 😥
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mindi1206)](https://github.com/anuraghazra/github-readme-stats)
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindi1206&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ### 🌎 Projects
   * 🚚 주차공간 공유플랫폼 'Picker Parker' <br>
   * 👔 시각장애인을 위한 딥러닝 기반 옷장 '뷰클로젯' <br>
@@ -21,7 +21,13 @@
 ### 📧 Contact!
 Blog : https://jackpang.tistory.com/ <br>
 E-mail : mindimindi1206@gmail.com
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mindi1206&show_icons=true) <br>
+
 <!-- **mindi1206/mindi1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
