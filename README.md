@@ -2,7 +2,8 @@
 ## 👋😊 밍디에요 ✧*｡٩(ˊᗜˋ*)و✧*｡
    1997.12.06 <br>
    IoT 개발자가 되고싶어요! 👨‍💻
-  
+ 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mindi1206)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌎 Projects
   * 🚚 주차공간 공유플랫폼 'Picker Parker' <br>
