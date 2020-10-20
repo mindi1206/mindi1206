@@ -1,7 +1,8 @@
 
 ## 👋😊 밍디에요 ✧*｡٩(ˊᗜˋ*)و✧*｡
    1997.12.06 <br>
-   IoT 개발자가 되고싶어요! 👨‍💻
+   IoT 개발자가 되고싶어요! 👨‍💻 <br>
+      하지만 웹개발도 하고싶어.. 😥
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mindi1206)](https://github.com/anuraghazra/github-readme-stats)
 
