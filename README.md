@@ -1,14 +1,17 @@
 ### 민지의 상상은 현실이 된드앙 👋
-<hr/><br>
+<hr/>
 
 ### 👩 Profile
 👶 1997년 12월 06일 <br>
-🏫 한국산업기술대학교 (2016.03 ~ 2021.02)
+🏫 한국산업기술대학교
 
-
-###  Projects
-👶 1997년 12월 06일 <br>
-🏫 한국산업기술대학교 (2016.03 ~ 2021.02)
+### 🌎 Projects
+🚚 주차공간 공유플랫폼 'Picker Parker' <br>
+👔 시각장애인을 위한 딥러닝 기반 옷장 '뷰클로젯' <br>
+🌈 날씨를 보여주는 가젯 'Weather Cube' <br>
+🔠 오픈소스 웹 IDE를 활용한 코딩테스트 시스템 구축 <br>
+👶 스마트 아기침대 제어 어플리케이션 <br>
+✉ 패킷캡처 프로그램 <br>
 
 ### 🎞 Career
 * 2018 IT동아리 TAVE 1기, 2기 운영진
@@ -20,7 +23,7 @@
 * 2020.12 2020 한이음 입선, 2020 프로보노 장려상
 * 2020.11 IIBC 시각장애인을 위한 딥러닝 옷장 논문 게재 · 발표
 
-**mindi1206/mindi1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **mindi1206/mindi1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
